@@ -2,5 +2,5 @@
 
 Nombres:
 
-- Hanna
+- Hanna Reyes
 - Rodrigo Garcilazo
